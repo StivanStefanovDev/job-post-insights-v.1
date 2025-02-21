@@ -10,7 +10,9 @@
 
 > This is done with the intent to help devs quickly get an insight into the software development market.
 
-<br>
+
+![Screenshot 2025-02-21 133943](https://github.com/user-attachments/assets/b7e33567-7801-41de-90a4-0e6c91a0d270)
+![Screenshot 2025-02-21 134601](https://github.com/user-attachments/assets/327a3f61-c7ba-409c-94a6-0713e2f397aa)
 
 
 <br>
