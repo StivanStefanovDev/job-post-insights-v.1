@@ -11,6 +11,9 @@
 > This is done with the intent to help devs quickly get an insight into the software development market.
 
 <br>
+
+
+<br>
 <hr>
 
 ## 🛠 Data Extraction
@@ -103,3 +106,15 @@ API Response:
   "top_summary_words": [{ "word": "experience", "count": 56196 }]
 }
 ```
+
+## 📱 Client-Side Implementation
+
+The client-side implementation is in `client/src/app/page.tsx`.
+
+It is a simple implementation of a dashboard that displays the insights in a nice way using tailwind css and chart.js, as well as typescript.
+
+### Key Features:
+
+- 📊 Interactive Charts: The dashboard includes interactive charts that visualize the job market trends.
+- 📱 Responsive Design: The dashboard is fully responsive, ensuring accessibility from any device.
+- 🔍 Detailed Insights: The dashboard provides detailed insights into the job market, including top skills, job levels, job types, companies, and popular search locations.
